@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Diego99xz/diego99xz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* Degree in Analysis and Systems Development 🎓
+* I'am Data Engineer 👨‍🎓
+* I live in São Paulo, Brazil 📍
+* I work at accenture 💻
+* <a href="https://www.linkedin.com/in/diego-melo99xz/" style="text-decoration: none;">Linkedin
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25"/> 
+</a>
 
-Here are some ideas to get you started:
+## Skills 🚀
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100" />
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego99xz&show_icons=true&theme=dark)
