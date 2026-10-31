@@ -3,7 +3,7 @@ About Me
 
 🎓 Degree in Analysis and Systems Development
 
-👨‍💻 Front-End Developer
+👨‍💻 Data Engineer
 
 📍 Based in São Paulo, Brazil
 
